@@ -1,0 +1,5 @@
+{
+  "name": "SocialForge AI",
+  "description": "An autonomous agent platform that scrapes Instagram, builds brand kits, and generates expert-reviewed social media posts using Gemini 2.5 and 3.0 models.",
+  "requestFramePermissions": []
+}
